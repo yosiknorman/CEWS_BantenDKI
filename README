@@ -1,0 +1,12 @@
+Program berada pada folder : 
+PD_Kekeringan
+
+---
+Input data ke Folder : input
+misal Monitoring_kekeringan_YYYY_B$MMDAS$D.xlsx
+YYYY = tahun (4 digit)
+$MM = bulan (2 digit)
+$D = Dasarian (1 digit)
+
+contoh : Monitoring_kekeringan_2019_B09DAS2.xlsx
+
